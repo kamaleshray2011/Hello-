@@ -302,3 +302,12 @@
 //     console.log(greeting);
 // }
 // console.log("This time now: " + time + ".00 PM.");
+
+var n = 10;
+var factorial = 1;
+for (var i = 1; i <= 10; i++) {
+    factorial = factorial * i;
+
+    console.log("Factorial of " + i + ": " + factorial);
+}
+// console.log("Factorial of " + n + ": " + factorial);
