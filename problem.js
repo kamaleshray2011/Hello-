@@ -303,11 +303,45 @@
 // }
 // console.log("This time now: " + time + ".00 PM.");
 
-var n = 10;
-var factorial = 1;
-for (var i = 1; i <= 10; i++) {
-    factorial = factorial * i;
+// var n = 10;
+// var factorial = 1;
+// for (var i = 1; i <= 10; i++) {
+//     factorial = factorial * i;
 
-    console.log("Factorial of " + i + ": " + factorial);
-}
+//     console.log("Factorial of " + i + ": " + factorial);
+// }
 // console.log("Factorial of " + n + ": " + factorial);
+
+// for (var i = 0; i <= 10; i += 2) {
+//     console.log(i);
+// }
+
+// for (var i = 1; i <= 10; i += 2) {
+//     console.log(i);
+// }
+// var n = 0;
+// if (n > 0) {
+//     console.log("This number is positive.")
+// } else if (0 == n) {
+//     console.log("This number is neutral number.")
+// } else {
+//     console.log("This number is negative.")
+// }
+
+
+// var result = "1 ";
+// var n = 1;
+// for (var i = 0; i <= 10; i++) {
+//     n = n + 3;
+//     result = result + n + " ";
+
+// }
+// console.log(result);
+
+// var result = "";
+// var n = 1;
+// for (i = 1; i < 10; i++) {
+//     n = i * i - 1;
+//     result = result + n + " ";
+// }
+// console.log(result);
